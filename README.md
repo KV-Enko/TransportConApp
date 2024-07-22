@@ -36,3 +36,8 @@ TransportConApp
 - Сборка приложения осуществляется через CMake
 - К проекту должен быть приложен скрипт для сборки проекта
 - Код должен быть кроссплатформенным (собираться как под linux, так и под windows)
+
+Результаты выполнения программы
+--------
+![1_windows](https://github.com/user-attachments/assets/30eb1955-bec3-409f-a4c8-67781de77ad8)
+![1_linux](https://github.com/user-attachments/assets/71798a06-96d1-49bc-a7df-9c345e7e0b33)
